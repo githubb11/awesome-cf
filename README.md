@@ -20,7 +20,9 @@ An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) foll
 ### 1) Get all the dependencies
 
 #### Debain-Based
-
+```
+sudo apt install awesome fonts-roboto rofi compton lxappearance xbacklight xfce4-power-manager pnmixer xclip qt5-style-plugins materia-gtk-theme
+````
 ## Program list
 - [AwesomeWM](https://awesomewm.org/) as the window manager
 - [Roboto](https://fonts.google.com/specimen/Roboto) as the **font**
