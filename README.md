@@ -18,6 +18,9 @@ An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) foll
 ### Note: the best transition is from gnome to material-awesome as KDE-plasma can break some indicators until plasma is purged entierly.
 
 ### 1) Get all the dependencies
+
+
+## Programs
 - [AwesomeWM](https://awesomewm.org/) as the window manager
 - [Roboto](https://fonts.google.com/specimen/Roboto) as the **font**
 - [Rofi](https://github.com/DaveDavenport/rofi) for the app launcher
