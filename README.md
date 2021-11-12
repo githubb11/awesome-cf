@@ -71,3 +71,5 @@ The project is split in functional directories and in each of them there is a re
 * [Module](./module) contain all the **features** available
 * [Theme](./theme) hold all the **aestetic** aspects
 * [Widget](./widget) contain all the **widgets** available
+* [scripts](./scipts) contains sh **scripts**
+* 
