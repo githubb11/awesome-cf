@@ -19,6 +19,7 @@ An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) foll
 
 ### 1) Get all the dependencies
 
+#### Debain-Based
 
 ## Program list
 - [AwesomeWM](https://awesomewm.org/) as the window manager
