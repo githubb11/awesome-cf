@@ -20,6 +20,7 @@ An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) foll
 ### 1) Get all the dependencies
 
 ## Program list
+awesome extra 
 - [AwesomeWM](https://awesomewm.org/) as the window manager
 - [Roboto](https://fonts.google.com/specimen/Roboto) as the **font**
 - [Rofi](https://github.com/DaveDavenport/rofi) for the app launcher
@@ -27,7 +28,7 @@ An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) foll
 - [i3lock-fancy](https://github.com/meskarune/i3lock-fancy) the lockscreen application
 - [xclip](https://github.com/astrand/xclip) for copying screenshots to clipboard
 - __gnome-keyring-daemon__ and a __policykit-agent__ (by default policykit-1-gnome is enabled)
-- (Optional) __qt5-styles-gtk2__ or __qt5-styles-plugins__ for making QT and KDE applications look the same as gnome applications
+- (Optional) __qt5-styles-gtk2__ or __qt5-styles-plugins__ for making QT and KDE applications look the same as gnome application's 
 - [lxappearance](https://sourceforge.net/projects/lxde/files/LXAppearance/) to set up the gtk and icon theme
 - (Optional) [pnmixer](https://github.com/nicklan/pnmixer) Audio Tray icon that is in debian repositories and is easily installed on arch through AUR.
 - (Optional) [Materia](https://github.com/nana-4/materia-theme) as GTK theme
